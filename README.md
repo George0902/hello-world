@@ -1,2 +1,4 @@
 # hello-world
-Just another repsitory
+Just another repostory 
+ I george, i like script hackings
+
